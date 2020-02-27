@@ -1,0 +1,4 @@
+#Thu Feb 27 17:24:12 ALMT 2020
+base.0=/Users/user/Desktop/Admin/Programm/Puzzle/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A978CC9A-7491-7253-286F-63E1E9E5B875}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TrackableEventHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RotateInCamera.cs" Line="3" Column="28" />
+      <File FileName="Assets/Scripts/TrackableEventHandler.cs" Line="27" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Puzzle" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TrackableEventHandler.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4d898079-852d-4726-b99c-989c117f5ee5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

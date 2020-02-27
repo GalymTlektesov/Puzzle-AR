@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba4c2e644fbce74d9867bb89e00d7b3, type: 3}
+  m_Name: Pulse
+  m_EditorClassIdentifier: 
+  mSerializedData: "<?xml version=\"1.0\" encoding=\"utf-16\"?>\n<SE_Animation xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"
+    xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" Name=\"Custom\" _Playback=\"Single\"
+    _Backwards=\"false\" _PlaybackTimes=\"-1\" _ExtraTimeFinal=\"0\" _ExtraTimePerLoop=\"0.3\">\n 
+    <_Sequences>\n    <SE_AnimSequence xsi:type=\"SE_AnimSequence_Scale\">\n     
+    <_Name />\n      <_StartType>OnAnimStart</_StartType>\n      <_StartDelay>0</_StartDelay>\n     
+    <_Separation>0</_Separation>\n      <_RandomStart>0</_RandomStart>\n      <_DurationType>TotalTime</_DurationType>\n     
+    <_Duration>0.5</_Duration>\n      <_DurationRandom_Slower>0</_DurationRandom_Slower>\n     
+    <_DurationRandom_Faster>0</_DurationRandom_Faster>\n      <_Playback>Single</_Playback>\n     
+    <_Backwards>false</_Backwards>\n      <_PlaybackTimes>0</_PlaybackTimes>\n     
+    <_EasingCurve>\n        <keys>\n          <Keyframe>\n            <time>0</time>\n           
+    <value>0</value>\n            <inTangent>9.234255</inTangent>\n            <outTangent>9.234255</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n          <Keyframe>\n            <time>0.2581864</time>\n           
+    <value>0.995525</value>\n            <inTangent>0</inTangent>\n            <outTangent>0</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n          <Keyframe>\n            <time>1</time>\n            <value>-0.00223214179</value>\n           
+    <inTangent>0</inTangent>\n            <outTangent>0</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n        </keys>\n        <preWrapMode>ClampForever</preWrapMode>\n       
+    <postWrapMode>ClampForever</postWrapMode>\n      </_EasingCurve>\n      <_TargetType>Letters</_TargetType>\n     
+    <_TargetRangeType>All</_TargetRangeType>\n      <_TargetRangeStart>0</_TargetRangeStart>\n     
+    <_TargetRangeAmount>0</_TargetRangeAmount>\n      <_InitAllElements>false</_InitAllElements>\n     
+    <_Enabled>true</_Enabled>\n      <_From>\n        <x>1</x>\n        <y>1</y>\n       
+    <z>1</z>\n      </_From>\n      <_To>\n        <x>1.2</x>\n        <y>1.2</y>\n       
+    <z>1.2</z>\n      </_To>\n      <_FromRandom>\n        <x>0</x>\n        <y>0</y>\n       
+    <z>0</z>\n      </_FromRandom>\n      <_ToRandom>\n        <x>0</x>\n       
+    <y>0</y>\n        <z>0</z>\n      </_ToRandom>\n      <_AnimBlend_From>Replace</_AnimBlend_From>\n     
+    <_AnimBlend_To>Replace</_AnimBlend_To>\n      <_ApplyX>true</_ApplyX>\n     
+    <_ApplyY>true</_ApplyY>\n      <_ApplyZ>true</_ApplyZ>\n      <_UseAxisEasingCurves>false</_UseAxisEasingCurves>\n     
+    <_EasingCurveY>\n        <keys>\n          <Keyframe>\n            <time>0</time>\n           
+    <value>0</value>\n            <inTangent>0</inTangent>\n            <outTangent>0</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n          <Keyframe>\n            <time>1</time>\n            <value>1</value>\n           
+    <inTangent>0</inTangent>\n            <outTangent>0</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n        </keys>\n        <preWrapMode>ClampForever</preWrapMode>\n       
+    <postWrapMode>ClampForever</postWrapMode>\n      </_EasingCurveY>\n      <_EasingCurveZ>\n       
+    <keys>\n          <Keyframe>\n            <time>0</time>\n            <value>0</value>\n           
+    <inTangent>0</inTangent>\n            <outTangent>0</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n          <Keyframe>\n            <time>1</time>\n            <value>1</value>\n           
+    <inTangent>0</inTangent>\n            <outTangent>0</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n        </keys>\n        <preWrapMode>ClampForever</preWrapMode>\n       
+    <postWrapMode>ClampForever</postWrapMode>\n      </_EasingCurveZ>\n      <_Pivot>\n       
+    <x>0.5</x>\n        <y>0.5</y>\n        <z>0</z>\n      </_Pivot>\n      <_PivotType>Relative_All</_PivotType>\n   
+    </SE_AnimSequence>\n    <SE_AnimSequence xsi:type=\"SE_AnimSequence_Alpha\">\n     
+    <_Name />\n      <_StartType>OnAnimStart</_StartType>\n      <_StartDelay>0</_StartDelay>\n     
+    <_Separation>0</_Separation>\n      <_RandomStart>0</_RandomStart>\n      <_DurationType>TotalTime</_DurationType>\n     
+    <_Duration>0.5</_Duration>\n      <_DurationRandom_Slower>0</_DurationRandom_Slower>\n     
+    <_DurationRandom_Faster>0</_DurationRandom_Faster>\n      <_Playback>Single</_Playback>\n     
+    <_Backwards>false</_Backwards>\n      <_PlaybackTimes>0</_PlaybackTimes>\n     
+    <_EasingCurve>\n        <keys>\n          <Keyframe>\n            <time>0</time>\n           
+    <value>0</value>\n            <inTangent>9.72524</inTangent>\n            <outTangent>9.72524</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n          <Keyframe>\n            <time>0.2581864</time>\n           
+    <value>0.995525</value>\n            <inTangent>0</inTangent>\n            <outTangent>0</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n          <Keyframe>\n            <time>1</time>\n            <value>-0.00223214179</value>\n           
+    <inTangent>0</inTangent>\n            <outTangent>0</outTangent>\n           
+    <inWeight>0</inWeight>\n            <outWeight>0</outWeight>\n            <weightedMode>None</weightedMode>\n         
+    </Keyframe>\n        </keys>\n        <preWrapMode>ClampForever</preWrapMode>\n       
+    <postWrapMode>ClampForever</postWrapMode>\n      </_EasingCurve>\n      <_TargetType>Letters</_TargetType>\n     
+    <_TargetRangeType>All</_TargetRangeType>\n      <_TargetRangeStart>0</_TargetRangeStart>\n     
+    <_TargetRangeAmount>0</_TargetRangeAmount>\n      <_InitAllElements>false</_InitAllElements>\n     
+    <_Enabled>true</_Enabled>\n      <_From>1</_From>\n      <_FromRandom>0</_FromRandom>\n     
+    <_To>0.338</_To>\n      <_ToRandom>0</_ToRandom>\n      <_AnimBlend_From>Replace</_AnimBlend_From>\n     
+    <_AnimBlend_To>Replace</_AnimBlend_To>\n      <_OnFinish_SetAlphaToFinalValue>false</_OnFinish_SetAlphaToFinalValue>\n   
+    </SE_AnimSequence>\n  </_Sequences>\n</SE_Animation>"
